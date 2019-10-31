@@ -1,0 +1,10 @@
+C:\Users\jbenk\Desktop\bootcamp2019\Week 3\Rock Paper Scissors\obj\Debug\netcoreapp3.0\Rock Paper Scissors.AssemblyInfoInputs.cache
+C:\Users\jbenk\Desktop\bootcamp2019\Week 3\Rock Paper Scissors\obj\Debug\netcoreapp3.0\Rock Paper Scissors.AssemblyInfo.cs
+C:\Users\jbenk\Desktop\bootcamp2019\Week 3\Rock Paper Scissors\bin\Debug\netcoreapp3.0\Rock Paper Scissors.exe
+C:\Users\jbenk\Desktop\bootcamp2019\Week 3\Rock Paper Scissors\bin\Debug\netcoreapp3.0\Rock Paper Scissors.deps.json
+C:\Users\jbenk\Desktop\bootcamp2019\Week 3\Rock Paper Scissors\bin\Debug\netcoreapp3.0\Rock Paper Scissors.runtimeconfig.json
+C:\Users\jbenk\Desktop\bootcamp2019\Week 3\Rock Paper Scissors\bin\Debug\netcoreapp3.0\Rock Paper Scissors.runtimeconfig.dev.json
+C:\Users\jbenk\Desktop\bootcamp2019\Week 3\Rock Paper Scissors\bin\Debug\netcoreapp3.0\Rock Paper Scissors.dll
+C:\Users\jbenk\Desktop\bootcamp2019\Week 3\Rock Paper Scissors\bin\Debug\netcoreapp3.0\Rock Paper Scissors.pdb
+C:\Users\jbenk\Desktop\bootcamp2019\Week 3\Rock Paper Scissors\obj\Debug\netcoreapp3.0\Rock Paper Scissors.dll
+C:\Users\jbenk\Desktop\bootcamp2019\Week 3\Rock Paper Scissors\obj\Debug\netcoreapp3.0\Rock Paper Scissors.pdb
